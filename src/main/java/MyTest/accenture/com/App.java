@@ -6,6 +6,7 @@ package MyTest.accenture.com;
  */
 public class App 
 {
+	int a;
     public static void main( String[] args )
     {
         System.out.println( "Hello World !");
